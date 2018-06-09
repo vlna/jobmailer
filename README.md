@@ -20,5 +20,8 @@ the script reads line by line and assembles and sends mail messages for unanswer
 Or grab a copy at
 https://docs.google.com/spreadsheets/d/1YEqC5Qj2LiESJ5tN1-5Ie-lUguso8Bti_1pMxr-e6wA/edit?usp=sharing
 
-# screenshot
+# screenshots
 ![sample](https://raw.githubusercontent.com/vlna/jobmailer/master/doc/sample.png)
+
+----
+![mail](https://raw.githubusercontent.com/vlna/jobmailer/master/doc/mail.png)
